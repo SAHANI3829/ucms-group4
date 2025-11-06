@@ -34,4 +34,4 @@ Follow these steps to run the project locally:
 
 ```bash
 git clone <YOUR_NEW_REPO_URL>
-cd my-uni-project
+cd ucms-group4
